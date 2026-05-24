@@ -1,6 +1,6 @@
 {
   "name": "envprotect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Type-safe environment variable validation with Zod. Load, validate, and protect your env vars with full TypeScript inference, secrets masking, and .env.example generation.",
   "author": "arsheriff2k3",
   "license": "MIT",
