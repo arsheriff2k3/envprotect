@@ -1,7 +1,17 @@
 {
   "name": "envprotect",
   "version": "1.0.0",
-  "description": "Type-safe environment variable validation with Zod. Load, validate, and guard your env vars with full TypeScript inference, secrets masking, and .env.example generation.",
+  "description": "Type-safe environment variable validation with Zod. Load, validate, and protect your env vars with full TypeScript inference, secrets masking, and .env.example generation.",
+  "author": "arsheriff2k3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arsheriff2k3/envprotect"
+  },
+  "homepage": "https://github.com/arsheriff2k3/envprotect#readme",
+  "bugs": {
+    "url": "https://github.com/arsheriff2k3/envprotect/issues"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -15,7 +25,9 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "LICENSE",
+    "README.md"
   ],
   "scripts": {
     "build": "tsc",
@@ -35,7 +47,6 @@
     "masking",
     "envprotect"
   ],
-  "license": "MIT",
   "peerDependencies": {
     "zod": "^3.22.0"
   },
