@@ -7,6 +7,8 @@ Stop crashing at 2 AM. Load, validate, and protect your env vars with full TypeS
 [![npm version](https://img.shields.io/npm/v/envprotect.svg)](https://www.npmjs.com/package/envprotect)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[Website](https://env-protect-web.vercel.app/) | [GitHub](https://github.com/arsheriff2k3/envprotect) | [npm](https://www.npmjs.com/package/envprotect)
+
 ## Why envProtect?
 
 | Problem | Without envProtect | With envProtect |
